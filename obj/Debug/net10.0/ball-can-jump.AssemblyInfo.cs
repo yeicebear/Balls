@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ball-can-jump")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ec54b86bfd99e6d488b38b58b8f632deeaa6ae7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ball-can-jump")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ball-can-jump")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

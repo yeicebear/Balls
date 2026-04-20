@@ -36,7 +36,7 @@ class Program
 
     static void Main()
     {
-        Raylib.InitWindow(1280, 720, "balls clone thing");
+        Raylib.InitWindow(1280, 720, "Dani's Balls.");
         Raylib.SetTargetFPS(60);
 
         /// load the stupid texture
