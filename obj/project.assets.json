@@ -74,11 +74,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pogo/Desktop/ball-can-jump/ball-can-jump.csproj",
+      "projectUniqueName": "/home/pogo/Desktop/Balls/ball-can-jump.csproj",
       "projectName": "ball-can-jump",
-      "projectPath": "/home/pogo/Desktop/ball-can-jump/ball-can-jump.csproj",
+      "projectPath": "/home/pogo/Desktop/Balls/ball-can-jump.csproj",
       "packagesPath": "/home/pogo/.nuget/packages/",
-      "outputPath": "/home/pogo/Desktop/ball-can-jump/obj/",
+      "outputPath": "/home/pogo/Desktop/Balls/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pogo/.nuget/NuGet/NuGet.Config"
