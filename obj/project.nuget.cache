@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iDkLuJb7zwg=",
+  "success": true,
+  "projectFilePath": "/home/pogo/Desktop/ball-can-jump/ball-can-jump.csproj",
+  "expectedPackageFiles": [
+    "/home/pogo/.nuget/packages/raylib-cs/7.0.2/raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
